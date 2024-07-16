@@ -9,7 +9,7 @@ Nesse repositório você encontra os *starter files* de um projeto de um jogo Ge
 - Você pode conferir o resultado final do projeto [clicando aqui](https://genius.surge.sh/).
 - Assista ao passo a passo (dividido em 8 partes) [clicando aqui](https://www.youtube.com/playlist?list=PL28O_hEAqjAtOPTlRHkHrhfmct_USCGfI).
 
-## O que você irá aprender ao terminar esse projeto:
+## Utilizando neste projeto:
 
 - CSS
   - Variáveis CSS
@@ -30,4 +30,6 @@ Nesse repositório você encontra os *starter files* de um projeto de um jogo Ge
   - carregar sons
   - setTimeout()
   - setInterval()
+
+[genius-game.webm](https://github.com/user-attachments/assets/ff67d463-557c-465b-bce2-b1e7d862ec08)
 
